@@ -455,7 +455,7 @@ body {
     flex-direction: column;
     justify-content: flex-start;
     gap: 16px;
-    width: 6%;
+    width: 22%;
 }
 
 .bottomNavigationItem {
@@ -480,7 +480,7 @@ body {
     flex-direction: column;
     justify-content: flex-start;
     gap: 16px;
-    width: 7%;
+    width: 26%;
 }
 
 .socials {
@@ -724,8 +724,6 @@ body {
     .infoBox {
         margin: 0;
     }
-
-    .upperNav, .lowerNav {width: 100%;}
 
     .bottomNavigation {
         display: flex;
